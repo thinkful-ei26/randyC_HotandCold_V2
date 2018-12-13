@@ -7,6 +7,7 @@ import './header.css';
 
 export default function Header(props) {
      
+    
          //Game is on!
          if(props.gameMode === 1){
 
